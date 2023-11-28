@@ -1,0 +1,2 @@
+# twentytwentyfour
+wordpress-theme
